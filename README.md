@@ -1,1 +1,3 @@
 ﻿# Breast-Cancer-Prediction-Using-Machine-Learning
+#Project Description
+The Breast Cancer Prediction project aims to classify tumors as benign or malignant based on medical features such as radius, texture, and perimeter. Three machine learning algorithms—Logistic Regression, Decision Tree, and Random Forest Classifier—were compared for performance, and Random Forest was chosen due to its higher accuracy and robustness. A Streamlit web application was then developed using the Random Forest model to allow users to input medical data and receive real-time predictions, supporting early detection and assisting healthcare professionals in decision-making.
